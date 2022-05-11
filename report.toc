@@ -1,4 +1,6 @@
 \babel@toc {french}{}\relax 
 \contentsline {section}{\numberline {1}Conseil de collège ST}{3}{section.1}%
+\contentsline {paragraph}{Description et analyse}{3}{section*.3}%
+\contentsline {paragraph}{Identification des connaissances et compétences acquises}{3}{section*.4}%
 \contentsline {section}{\numberline {2}Réunions préparatoires}{4}{section.2}%
 \contentsline {section}{\numberline {3}Groupes de travail et cætera}{5}{section.3}%
