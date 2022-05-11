@@ -1,9 +1,4 @@
 \babel@toc {french}{}\relax 
-\contentsline {section}{\numberline {1}Description et analyse des activités/tâches menées}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Description des tâches menées}{3}{subsection.1.1}%
-\contentsline {paragraph}{Conseil de collège ST}{3}{section*.3}%
-\contentsline {paragraph}{Réunions préparatoires}{3}{section*.4}%
-\contentsline {paragraph}{Groupes de travail}{3}{section*.5}%
-\contentsline {paragraph}{Mail}{3}{section*.6}%
-\contentsline {subsection}{\numberline {1.2}Analyse et résultats obtenus}{3}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Identification des connaissances et compétences acquises}{5}{section.2}%
+\contentsline {section}{\numberline {1}Conseil de collège ST}{3}{section.1}%
+\contentsline {section}{\numberline {2}Réunions préparatoires}{4}{section.2}%
+\contentsline {section}{\numberline {3}Groupes de travail et cætera}{5}{section.3}%
