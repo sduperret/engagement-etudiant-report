@@ -1,6 +1,10 @@
 \babel@toc {french}{}\relax 
-\contentsline {section}{\numberline {1}Conseil de collège ST}{3}{section.1}%
-\contentsline {paragraph}{Description et analyse}{3}{section*.3}%
-\contentsline {paragraph}{Identification des connaissances et compétences acquises}{3}{section*.4}%
-\contentsline {section}{\numberline {2}Réunions préparatoires}{4}{section.2}%
-\contentsline {section}{\numberline {3}Groupes de travail et cætera}{5}{section.3}%
+\contentsline {section}{\numberline {1}Conseils de Collège Sciences et Technologies}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Description et analyse}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Identification des connaissances et compétences acquises}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Réunions préparatoires}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Description et analyse}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Identification des connaissances et compétences acquises}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Groupes de travail et cætera}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Description et analyse}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Identification des connaissances et compétences acquises}{6}{subsection.3.2}%
