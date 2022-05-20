@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.4.3)  20 MAY 2022 09:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.4.3)  20 MAY 2022 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,23 +403,17 @@ Overfull \hbox (15.6864pt too wide) in paragraph at lines 130--145
  []
 
 [7] (./report.aux)
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 9F644EF98DF0972851773DD3282463C5;2225
-(rerunfilecheck)             After:  0E3CDD40476910570F3F1F86D3221F41;2220.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 0E3CDD40476910570F3F1F86D3221F41;2220.
  ) 
 Here is how much of TeX's memory you used:
- 10320 strings out of 480163
- 163893 string characters out of 5893308
- 479130 words of memory out of 5000000
- 28163 multiletter control sequences out of 15000+600000
+ 10319 strings out of 480163
+ 163875 string characters out of 5893308
+ 478130 words of memory out of 5000000
+ 28162 multiletter control sequences out of 15000+600000
  474766 words of font info for 46 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 60i,7n,63p,1762b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,7n,63p,1760b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -428,12 +422,11 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmti10.pfb>
-Output written on report.pdf (7 pages, 159384 bytes).
+sfonts/cm/cmti10.pfb>
+Output written on report.pdf (7 pages, 150195 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 148 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  20 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
