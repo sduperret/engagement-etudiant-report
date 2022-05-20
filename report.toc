@@ -8,3 +8,6 @@
 \contentsline {section}{\numberline {3}Groupes de travail et cætera}{6}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Description et analyse}{6}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Identification des connaissances et compétences acquises}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Annexes}{8}{section.4}%
+\contentsline {paragraph}{Annexe 1}{8}{section*.4}%
+\contentsline {paragraph}{Annexe 2}{8}{section*.5}%
